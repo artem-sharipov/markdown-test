@@ -1,4 +1,4 @@
 # markdown-test
 
 Sample text[^1].
-[^1]:dfsdf
+[^1]:https://github.com/artem-sharipov
